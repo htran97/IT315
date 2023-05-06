@@ -1,0 +1,56 @@
+{
+    "FoodLover": [
+    
+                {
+                    "FoodName":"Cong Ly Restaurant",
+                    "FoodPicture":"https://github.com/quanghiep117/JSON_P1/blob/master/Nike%20Air%20Mag.png?raw=true",
+                    "FoodHype":"Viet Nam",
+                    "FoodResell":"Com Suon",
+                    "FoodSiteUrl":"https://menupages.com/pho-cong-ly-noodle-and-grill/6920-braddock-rd-annandale",
+                    "FoodDescription":"Com suon is a really popular rice dish in Vietnamese cuisine. It has lemongrass pork chops, broken rice garnished with mo hanh, fresh vegetables, pickled vegetables, and a fried egg, all served on one plate.",
+                    "FoodColor":"******",
+                    "FoodVideo":"https://www.youtube.com/watch?v=NimGxU4Qnhk"
+                },
+                {
+                    "FoodName":"Taco Bamba",
+                    "FoodPicture":"https://github.com/quanghiep117/JSON_P1/blob/master/Asics%20Koi.jpg?raw=true",
+                    "FoodHype":"Mexico",
+                    "FoodResell":"Coco Loco Shirm",
+                    "FoodSiteUrl":"https://www.tacobamba.com/",
+                    "FoodDescription":"Chef Victor Albisu has more than two decades of experience in fine dining and upscale French, American, and Latin American restaurants. He combines his culinary education with his Latin American heritage to bring a unique style of cuisine to his wildly popular taqueria, Taco Bamba.",
+                    "FoodColor":"******",
+                    "FoodVideo":"https://www.youtube.com/watch?v=Gjl8kj8_G7Q"
+                },
+                {
+                    "FoodName":"Taste Of Istanbul",
+                    "FoodPicture":"https://github.com/quanghiep117/JSON_P1/blob/master/Nike%20Dunk%20Pegion.jpeg?raw=true",
+                    "FoodHype":"Istanbul",
+                    "FoodResell":"Lamb Chop and Turkish Tea",
+                    "FoodSiteUrl":"https://tasteofistanbulcatering.com/",
+                    "FoodDescription":"They are an authentic Turkish restaurant and catering service located in Northern Virginia. They serve doner, chicken, beef kofte kebabs, and wraps! In addition, they also serve a variety of homemade baked goods, and vegetarian options.",
+                    "FoodColor":"******",
+                    "FoodVideo":"https://www.youtube.com/watch?v=hcWZixsRiy8"
+                },
+                {
+                    "FoodName":"Sushi Prince",
+                    "FoodPicture":"https://github.com/quanghiep117/JSON_P1/blob/master/Yeezy%20700.jpeg?raw=true",
+                    "FoodHype":"Japan",
+                    "FoodResell":"Special Roll",
+                    "FoodSiteUrl":"https://sushi-prince.com/",
+                    "FoodDescription":"Traditional, authentic, entertaining, and delicate tastes are their main characteristics at the Sushi Prince. At their restaurant, you will not only enjoy the best Japanese cuisine but also experience the unique Japanese entertainment.",
+                    "FoodColor":"******",
+                    "FoodVideo":"https://www.youtube.com/watch?v=4lYwvw5YB18"
+                },
+                {
+                    "FoodName":"Full Kee Restaurant",
+                    "FoodPicture":"https://github.com/quanghiep117/JSON_P1/blob/master/Nike%20Dunk%20Off-White.jpg?raw=true",
+                    "FoodHype":"China",
+                    "FoodResell":"Rice with Roast Pork",
+                    "FoodSiteUrl":"https://www.fullkeefallschurch.com/",
+                    "FoodDescription":"Full Kee Restaurant is a cornerstone in the Falls Church community and has been recognized for its outstanding Chinese cuisine, excellent service and friendly staff.",
+                    "FoodColor":"******",
+                    "FoodVideo":"https://www.youtube.com/watch?v=VEdH5iaNMNo"
+                }
+    ],
+    "Status": "OK"
+}
