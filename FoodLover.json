@@ -2,22 +2,22 @@
     "FoodLover": [
     
                 {
-                    "FoodName":"Cong Ly Restaurant",
+                    "FoodName":"Pho Sai Gon Oi",
                     "FoodPicture":"https://github.com/htran97/IT315/blob/e41fb5c5a06b2da6a5d9109f8641ed6e9656e44d/ComSuon.jpg?raw=true",
                     "FoodHype":"Viet Nam",
                     "FoodResell":"Com Suon",
-                    "FoodSiteUrl":"https://menupages.com/pho-cong-ly-noodle-and-grill/6920-braddock-rd-annandale",
+                    "FoodSiteUrl":"http://phosaigonoi.com/",
                     "FoodDescription":"Com suon is a really popular rice dish in Vietnamese cuisine. It has lemongrass pork chops, broken rice garnished with mo hanh, fresh vegetables, pickled vegetables, and a fried egg, all served on one plate.",
                     "FoodColor":"******",
                     "FoodVideo":"https://www.youtube.com/watch?v=rhsO_nkMlGg"
                 },
                 {
-                    "FoodName":"Taco Bamba",
+                    "FoodName":"District Taco",
                     "FoodPicture":"https://github.com/htran97/IT315/blob/e41fb5c5a06b2da6a5d9109f8641ed6e9656e44d/tacobamba.jpg?raw=true",
                     "FoodHype":"Mexico",
                     "FoodResell":"Coco Loco Shirm",
-                    "FoodSiteUrl":"https://www.tacobamba.com/",
-                    "FoodDescription":"Chef Victor Albisu has more than two decades of experience in fine dining and upscale French, American, and Latin American restaurants. He combines his culinary education with his Latin American heritage to bring a unique style of cuisine to his wildly popular taqueria, Taco Bamba.",
+                    "FoodSiteUrl":"https://www.districttaco.com/",
+                    "FoodDescription":"A Mexican immigrant’s dreams of moving to the United States in pursuit of being an entrepreneur became a reality when he was just 18. Osiris Hoil was forced to overcome many obstacles in an effort to immerse himself in a new culture.",
                     "FoodColor":"******",
                     "FoodVideo":"https://www.youtube.com/watch?v=szULSbmLCf0"
                 },
@@ -32,12 +32,12 @@
                     "FoodVideo":"https://www.youtube.com/watch?v=JGZNyJenKzA"
                 },
                 {
-                    "FoodName":"Sushi Prince",
+                    "FoodName":"Rawr Sushi",
                     "FoodPicture":"https://github.com/htran97/IT315/blob/e41fb5c5a06b2da6a5d9109f8641ed6e9656e44d/sushi.jpg?raw=true",
                     "FoodHype":"Japan",
                     "FoodResell":"Special Roll",
-                    "FoodSiteUrl":"https://sushi-prince.com/",
-                    "FoodDescription":"Traditional, authentic, entertaining, and delicate tastes are their main characteristics at the Sushi Prince. At their restaurant, you will not only enjoy the best Japanese cuisine but also experience the unique Japanese entertainment.",
+                    "FoodSiteUrl":"http://www.rawrsushi.com/",
+                    "FoodDescription":"Welcome to our family-owned sushi restaurant, where we have been serving up delicious sushi for over 10 years! We take pride in providing a warm and welcoming atmosphere for all our customers.",
                     "FoodColor":"******",
                     "FoodVideo":"https://www.youtube.com/watch?v=07QbOqho8j4"
                 },
